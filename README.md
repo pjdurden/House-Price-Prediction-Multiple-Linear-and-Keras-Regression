@@ -13,10 +13,6 @@ Jupyter Notebook from Anaconda distribution
 # What libraries are used in the code?
 scikitlearn, pandas, numpy and matplotlib.
 
-# Well, something more about the dataset?
-This housing dataset contains above 40 variables, Among them, 37 are categorical variables while rest are numerical variables.
-train.csv contains 1460 rows and test.csv contains 1459 rows.
-
 ## Dataset
 
 The data contains information from the 1990 California census. The columns are as follows:<br />
@@ -31,10 +27,14 @@ The data contains information from the 1990 California census. The columns are a
 *medianHouseValue:* Median house value for households within a block (measured in US Dollars)<br />
 *oceanProximity:* Location of the house w.r.t ocean/sea<br /><br />
 
-# which linear regression is used?
-I have used Linear regression with gradient descent to find the best coefficient values of the predictors.
+# regression used
+I have used Linear regression and keras with gradient descent to find the best coefficient values of the predictors.
 
-## Tensorflow and Keras
+# output of multiple linear regression
+<img src="https://github.com/pjdurden/House-Price-Prediction-Multiple-Linear-and-Keras-Regression/blob/main/MLR%20result.PNG">
+<img src="https://github.com/pjdurden/House-Price-Prediction-Multiple-Linear-and-Keras-Regression/blob/main/MLR%20test%20error.png">
+
+# Tensorflow and Keras
 **TensorFlow** is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.<br /><br />
 **Keras** is an open-source neural-network library written in Python. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, R, Theano, or PlaidML. Designed to enable fast experimentation with deep neural networks, it focuses on being user-friendly, modular, and extensible.
 
@@ -43,6 +43,9 @@ I have used Linear regression with gradient descent to find the best coefficient
 The only hyperparameter in case of lienar regression is the regularization paramter. 
 The best tregularization paramter is estimated as the one that performed best across cross validation datasets.
 
+# output of keras regression
+<img src="https://github.com/pjdurden/House-Price-Prediction-Multiple-Linear-and-Keras-Regression/blob/main/Keras%20scatterplot.png">
+<img src="https://github.com/pjdurden/House-Price-Prediction-Multiple-Linear-and-Keras-Regression/blob/main/keras%20heatmap.png">
 
 # what did we achieve from running this model?
 
