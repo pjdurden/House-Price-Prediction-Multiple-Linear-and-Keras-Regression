@@ -1,5 +1,5 @@
 # House-Price-Prediction
-House price prediction using MUltiple Linear regression and Keras Regression
+House price prediction using Multiple Linear regression and Keras Regression
 
 This is a famous data set for beginners practicing regression. In this program, I will implement multivariate linear/keras regression to predict the "Sale prices" of houses.
 
@@ -46,6 +46,7 @@ The best tregularization paramter is estimated as the one that performed best ac
 # output of keras regression
 <img src="https://github.com/pjdurden/House-Price-Prediction-Multiple-Linear-and-Keras-Regression/blob/main/Keras%20scatterplot.png">
 <img src="https://github.com/pjdurden/House-Price-Prediction-Multiple-Linear-and-Keras-Regression/blob/main/keras%20heatmap.png">
+
 
 # what did we achieve from running this model?
 
