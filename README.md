@@ -15,7 +15,7 @@ scikitlearn, pandas, numpy and matplotlib.
 
 ## Dataset
 
-The data contains information from the 1990 California census. The columns are as follows:<br />
+The data contains information from the Bengaluru census. The columns are as follows:<br />
 *longitude:* A measure of how far west a house is; a higher value is farther west<br />
 *latitude:* A measure of how far north a house is; a higher value is farther north<br />
 *housingMedianAge:* Median age of a house within a block; a lower number is a newer building<br />
@@ -23,8 +23,8 @@ The data contains information from the 1990 California census. The columns are a
 *totalBedrooms:* Total number of bedrooms within a block<br />
 *population:* Total number of people residing within a block<br />
 *households:* Total number of households, a group of people residing within a home unit, for a block<br />
-*medianIncome:* Median income for households within a block of houses (measured in tens of thousands of US Dollars)<br />
-*medianHouseValue:* Median house value for households within a block (measured in US Dollars)<br />
+*medianIncome:* Median income for households within a block of houses (measured in tens of thousands of Dollars)<br />
+*medianHouseValue:* Median house value for households within a block (measured in Dollars)<br />
 *oceanProximity:* Location of the house w.r.t ocean/sea<br /><br />
 
 # Regression Used
