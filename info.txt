@@ -1,0 +1,4 @@
+This is the code and data files for the house price prediction project
+The jupyter notebooks are in the code folder and the csv files are in the data files folder.
+The report and presentation(ppt)are included in this project.
+The readme is the print version of the readme.md
