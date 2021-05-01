@@ -3,7 +3,7 @@ House price prediction using Multiple Linear regression and Keras Regression
 
 This is a famous data set for beginners practicing regression. In this program, I will implement multivariate linear/keras regression to predict the "Sale prices" of houses.
 
-# Which DataSet is this?:
+# Which DataSet is this?
 [Bangalore Housing Dataset](https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data) is an alternative to commonly used Boston Housing dataset.
 
 
@@ -27,10 +27,10 @@ The data contains information from the 1990 California census. The columns are a
 *medianHouseValue:* Median house value for households within a block (measured in US Dollars)<br />
 *oceanProximity:* Location of the house w.r.t ocean/sea<br /><br />
 
-# regression used
+# Regression Used
 I have used Linear regression and keras with gradient descent to find the best coefficient values of the predictors.
 
-# output of multiple linear regression
+# Output of Multiple Linear Regression
 <img src="https://github.com/pjdurden/House-Price-Prediction-Multiple-Linear-and-Keras-Regression/blob/main/MLR%20result.PNG">
 <img src="https://github.com/pjdurden/House-Price-Prediction-Multiple-Linear-and-Keras-Regression/blob/main/MLR%20test%20error.png">
 
@@ -43,12 +43,12 @@ I have used Linear regression and keras with gradient descent to find the best c
 The only hyperparameter in case of lienar regression is the regularization paramter. 
 The best tregularization paramter is estimated as the one that performed best across cross validation datasets.
 
-# output of keras regression
+# Output of keras regression
 <img src="https://github.com/pjdurden/House-Price-Prediction-Multiple-Linear-and-Keras-Regression/blob/main/Keras%20scatterplot.png">
 <img src="https://github.com/pjdurden/House-Price-Prediction-Multiple-Linear-and-Keras-Regression/blob/main/keras%20heatmap.png">
 
 
-# what did we achieve from running this model?
+# What did we achieve from running this model?
 
 Low Overall quality index and less pool area negatively effect the sale price of the house.
 
