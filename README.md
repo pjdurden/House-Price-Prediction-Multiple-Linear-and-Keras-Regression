@@ -31,8 +31,8 @@ The data contains information from the Bengaluru census. The columns are as foll
 I have used Linear regression and keras with gradient descent to find the best coefficient values of the predictors.
 
 # Output of Multiple Linear Regression
-<img src="https://github.com/pjdurden/House-Price-Prediction-Multiple-Linear-and-Keras-Regression/blob/main/MLR%20result.PNG">
-<img src="https://github.com/pjdurden/House-Price-Prediction-Multiple-Linear-and-Keras-Regression/blob/main/MLR%20test%20error.png">
+<img src="https://github.com/pjdurden/House-Price-Prediction-Multiple-Linear-and-Keras-Regression/blob/main/data%20files/MLR%20result.PNG">
+<img src="https://github.com/pjdurden/House-Price-Prediction-Multiple-Linear-and-Keras-Regression/blob/main/data%20files/MLR%20test%20error.png">
 
 # Tensorflow and Keras
 **TensorFlow** is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.<br /><br />
@@ -44,8 +44,8 @@ The only hyperparameter in case of lienar regression is the regularization param
 The best tregularization paramter is estimated as the one that performed best across cross validation datasets.
 
 # Output of keras regression
-<img src="https://github.com/pjdurden/House-Price-Prediction-Multiple-Linear-and-Keras-Regression/blob/main/Keras%20scatterplot.png">
-<img src="https://github.com/pjdurden/House-Price-Prediction-Multiple-Linear-and-Keras-Regression/blob/main/keras%20heatmap.png">
+<img src="https://github.com/pjdurden/House-Price-Prediction-Multiple-Linear-and-Keras-Regression/blob/main/data%20files/Keras%20scatterplot.png">
+<img src="https://github.com/pjdurden/House-Price-Prediction-Multiple-Linear-and-Keras-Regression/blob/main/data%20files/keras%20heatmap.png">
 
 
 # What did we achieve from running this model?
